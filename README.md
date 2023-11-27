@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![kAly GitHub stats](https://github-readme-stats.vercel.app/api?username=kaly-59&show=reviews&show_icons=true&theme=onedark)
+
 <!--
 **kAly-59/kAly-59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
